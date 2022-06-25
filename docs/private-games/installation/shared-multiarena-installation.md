@@ -7,7 +7,7 @@ sidebar_position: 0
 This page aims on BedWars1058 Private Games Addon installation for SHARED and MULTIARENA server types.
 
 :::important
-You must have already done [these](/docs/private-games/how-to-verify) steps, if you haven't please do it before continuing the installation.
+You must have already done [these](/private-games/how-to-verify) steps, if you haven't please do it before continuing the installation.
 :::
 
 ---
