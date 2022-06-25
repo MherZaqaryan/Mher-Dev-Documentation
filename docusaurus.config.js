@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Mher Development',
   tagline: 'Documentation',
-  url: 'https://wiki.mher.club',
+  url: 'https://docs.mher.club',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
