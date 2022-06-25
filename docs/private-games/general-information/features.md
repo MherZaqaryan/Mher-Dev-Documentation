@@ -1,5 +1,5 @@
 ---
-id: features
+id: main-features
 title: Main Features
 hide_title: false
 hide_table_of_contents: false

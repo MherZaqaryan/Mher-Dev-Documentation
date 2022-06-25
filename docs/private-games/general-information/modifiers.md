@@ -1,5 +1,5 @@
 ---
-id: modifiers
+id: unique-modifiers
 title: Unique Modifiers
 sidebar_position: 1
 ---

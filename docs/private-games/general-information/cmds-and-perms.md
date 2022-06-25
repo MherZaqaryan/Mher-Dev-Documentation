@@ -5,7 +5,7 @@ sidebar_position: 3
 ---
 
 ### BedWars1058 Private Games Addon commands and their permissions.
-> The main command is private (Aliaises: pg).
+> The main command is `/private` (Aliaises: `/pg`).
 
 1. `/private`, `/private toggle`, `/party private` - Toggle private game mode for your party - **bedwars.private.use**
 

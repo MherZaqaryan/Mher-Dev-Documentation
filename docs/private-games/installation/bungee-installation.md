@@ -13,7 +13,7 @@ sidebar_position: 1
 3. Open `plugins/BedWarsProxy/Addon/Private-Games/config.yml` and set the `remote-port` to your disired port.
 
 :::note
-`remote-port` Must **not** be the same as server.properties or BedWarsProxy's port
+`remote-port` Must **not** be the same as [server.properties](https://www.spigotmc.org/wiki/spigot-configuration-server-properties/) or BedWarsProxy's port
 :::
 
 4. Restart your BedWarsProxy server.

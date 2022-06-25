@@ -1,5 +1,5 @@
 ---
-id: faq
+id: frequently-asked-questions
 title: Frequently Asked Questions
 sidebar_position: 2
 ---
