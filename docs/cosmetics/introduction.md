@@ -1,8 +1,6 @@
 ---
 id: introduction
 title: Introduction
-hide_title: false
-hide_table_of_contents: false
 sidebar_position: 0
 description: Introduction about BedWars1058 Cosmetics addon.
 ---

@@ -23,7 +23,7 @@ You may not share any copy of BedWars1058 Cosmetics Addon with anyone.
 Purchase is final, read the documentation, and test the BedWars1058 Cosmetics Addon in play.mher.club server before buying it.
 
 ## 3. For your own use only․
-Your own license is only vaild for one Minecraft server, or multiple Minecraft server connected to the same BungeeCord instance.
+Your own license is only valid for one Minecraft server, or multiple Minecraft server connected to the same BungeeCord instance.
 
 :::important
 You must be at least **eighteen** years of age (or be at least the legal age of majority in the location you reside), or have your parent's **permission** before purchasing or using this software.

@@ -1,5 +1,5 @@
 ---
-id: multiarena-installation
+id: shared-multiarena-installation
 title: Shared/Multiarena Installation
 sidebar_position: 0
 ---

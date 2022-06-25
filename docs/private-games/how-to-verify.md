@@ -1,9 +1,8 @@
 ---
 id: how-to-verify
 title: How To Verify
-hide_title: false
-hide_table_of_contents: false
 sidebar_position: 2
+description: Verifying your purchase and getting your personal license key for the BedWars1058 Private Games Addon.
 ---
 
 After you buy the plugin you need to get your license key to make the addon work to verify yourself as a buyer on my [Discord](https://mher.club/discord) server, please follow the steps down below!
