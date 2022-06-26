@@ -10,7 +10,7 @@ const config = {
   tagline: 'Documentation',
   url: 'https://docs.mher.club',
   baseUrl: '/',
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.png',
 
@@ -18,7 +18,6 @@ const config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'MherZaqaryan', // Usually your GitHub org/user name.
   projectName: 'Mher-Development-Documentation', // Usually your repo name.
-  deploymentBranch: 'development',
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
@@ -35,7 +34,10 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          routeBasePath: '/'
+          editUrl: 'https://github.com/MherZaqaryan/Mher-Club-Documentation/edit/master/',
+          showLastUpdateAuthor: true,
+          showLastUpdateTime: true,
+          routeBasePath: '/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -102,12 +104,15 @@ const config = {
       },
       footer: {
         style: 'light',
-        copyright: `© Mher Developement ${new Date().getFullYear()}. Built with <a href="https://docusaurus.io">Docusaurus</a>.`,
+        copyright: `© Mher Development ${new Date().getFullYear()}. Built with <a href="https://docusaurus.io">Docusaurus</a>.`,
       },
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
+        defaultLanguage: 'java',
+        additionalLanguages: ['java', 'yaml'],
       },
+
     }),
 };
 

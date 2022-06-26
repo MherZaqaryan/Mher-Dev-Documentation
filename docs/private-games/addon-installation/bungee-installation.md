@@ -20,7 +20,7 @@ sidebar_position: 1
 
 5. Open `plugins/BedWars1058/Addon/Private-Games/config.yml`, and then add the lobby server where you've installed BedWarsProxy at, under `lobby-sockets` path, like shown below:
 
-```yml
+```yml title="plugins/BedWars1058/Addon/Private-Games/config.yml" 
 lobby-sockets:
 - 0.0.0.0:2022
 ```

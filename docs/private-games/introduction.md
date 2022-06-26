@@ -20,9 +20,11 @@ Here you will find a complete set of documentation for the plugin, outlining how
 * [Terms And Conditions](terms-and-conditions).
 * [Compatibility](compatibility).
 * [Verifying Purchase](how-to-verify).
-* [Shared/Multiarena Installation](installation/shared-multiarena-installation).
-* [Bungee Installation](installation/bungee-installation).
+* [Shared/Multiarena Installation](addon-installation/shared-multiarena-installation).
+* [Bungee Installation](addon-installation/bungee-installation).
 * [Frequently asked questions](general-information/frequently-asked-questions).
 * [Commands And Permissions](general-information/commands-and-permissions).
 * [Unique modifiers](general-information/unique-modifiers).
 * [Developer API](developer-api/getting-started).
+
+[![Discord](https://discord.com/api/guilds/728540110768832543/widget.png?style=banner2)](https://mher.club/discord)
