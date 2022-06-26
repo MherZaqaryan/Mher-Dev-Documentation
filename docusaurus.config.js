@@ -112,7 +112,11 @@ const config = {
         defaultLanguage: 'java',
         additionalLanguages: ['java', 'yaml'],
       },
-
+      docs: {
+        sidebar: {
+          hideable: true,
+        }
+      }
     }),
 };
 
