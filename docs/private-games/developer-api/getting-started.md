@@ -1,7 +1,6 @@
 ---
 id: getting-started
 title: Getting Started
-sidebar_position: 0
 description: Getting started with the Private Games Developer API.
 ---
 

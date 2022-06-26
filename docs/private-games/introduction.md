@@ -1,7 +1,6 @@
 ---
 id: introduction
 title: Introduction
-sidebar_position: 0
 description: Introduction about BedWars1058 Private Games addon.
 ---
 
@@ -13,7 +12,7 @@ This is an add-on for the [BedWars1058](https://polymart.org/r/1152) plugin, thi
 
 Here you will find a complete set of documentation for the plugin, outlining how to install, setup, configure and effectively use the addon.
 
-> You may purchase the addon from [Polymart](https://polymart.org/r/1620).
+> You can purchase the addon from **[Polymart](https://polymart.org/r/1620)**.
 
 ## Quick Tracks
 

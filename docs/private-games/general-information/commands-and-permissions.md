@@ -1,7 +1,6 @@
 ---
 id: commands-and-permissions
 title: Commands & Permissions
-sidebar_position: 3
 ---
 
 ### BedWars1058 Private Games Addon commands and their permissions.

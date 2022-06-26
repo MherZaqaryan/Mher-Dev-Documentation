@@ -1,9 +1,6 @@
 ---
 id: terms-and-conditions
 title: Terms And Conditions
-hide_title: false
-hide_table_of_contents: false
-sidebar_position: 1
 description: BedWars1058 Private Games Addon's terms and conditions.
 ---
 

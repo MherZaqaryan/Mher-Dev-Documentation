@@ -1,7 +1,6 @@
 ---
 id: compatibility
 title: Compatibility
-sidebar_position: 3
 ---
 
 ## Server Software

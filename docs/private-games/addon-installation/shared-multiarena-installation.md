@@ -1,7 +1,6 @@
 ---
 id: shared-multiarena-installation
 title: Shared/Multiarena Installation
-sidebar_position: 0
 ---
 
 This page aims on BedWars1058 Private Games Addon installation for SHARED and MULTIARENA server types.

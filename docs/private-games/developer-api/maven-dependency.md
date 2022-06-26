@@ -1,7 +1,6 @@
 ---
 id: maven-dependency
 title: Maven Dependency
-sidebar_position: 1
 ---
 
 :::important

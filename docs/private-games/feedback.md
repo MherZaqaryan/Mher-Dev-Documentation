@@ -1,7 +1,6 @@
 ---
 id: feedback
 title: Feedback
-sidebar_position: 8
 ---
 
 Are you enjoyed with the features that BedWars1058 Private Games Addon provides? We would appreciate so much, if you take a minute to write a positive review about the addon and it's features.

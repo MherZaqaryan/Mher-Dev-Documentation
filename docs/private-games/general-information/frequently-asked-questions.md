@@ -1,7 +1,6 @@
 ---
 id: frequently-asked-questions
 title: Frequently Asked Questions
-sidebar_position: 2
 ---
 
 ### 1. Does this addon supports for BedWarsProxy (Bungee Mode)?

@@ -1,7 +1,6 @@
 ---
 id: bungee-installation
 title: Bungee Installation
-sidebar_position: 1
 ---
 
 :::important

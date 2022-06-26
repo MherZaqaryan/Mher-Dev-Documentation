@@ -1,7 +1,6 @@
 ---
 id: unique-modifiers
 title: Unique Modifiers
-sidebar_position: 1
 ---
 
 Currently there are over 11 unique modifiers available, private games hosters can make the game to be either easier or harder.
