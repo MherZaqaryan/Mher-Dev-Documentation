@@ -14,10 +14,10 @@ By purchasing this software, you are purchasing a license to use the software as
 
 ## 1. No distribution.
 You may not distribute or modify this software or its source or binary code in any way, for profit or not for profit.
-You may not share any copy of BedWars1058 Cosmetics Addon with anyone.
+You may not share any copy of BedWars1058 Private Games Addon with anyone.
 
 ## 2. No refunds, purchase is final.
-Purchase is final, read the documentation, and test the BedWars1058 Cosmetics Addon in play.mher.club server before buying it.
+Purchase is final, read the documentation, and test the BedWars1058 Private Games Addon in play.mher.club server before buying it.
 
 ## 3. For your own use only․
 Your own license is only valid for one Minecraft server, or multiple Minecraft server connected to the same BungeeCord instance.
