@@ -1,7 +1,13 @@
 ---
 id: shared-multiarena-installation
 title: Shared/Multiarena Installation
+description: Addon installation on shared/multiarena mode.
 ---
+Addon installation on shared/multiarena mode.
+
+:::note
+If you are using BUNGEE mode you should look into [Bungee Installation](bungee-installation) instead.
+:::
 
 This page aims on BedWars1058 Private Games Addon installation for SHARED and MULTIARENA server types.
 
@@ -13,9 +19,10 @@ You must have already done [these](/private-games/how-to-verify) steps, if you h
 
 1. Download the plugin from [Polymart](https://polymart.org/r/1620).
 2. Put the BedWars1058-PrivateGames-x.x.x.jar file into your server's plugins folder.
-3. Start and then stop your server.
-4. Open `plugins/BedWars1058/Addons/Private-Games/authorization.yml` file and put your license key on the `license-key` path!
-5. Start your server and now you're all done!
+3. Start your server, let it to fully start, and then stop it.
+3. Open `plugins/BedWars1058/Addons/Private-Games/authorization.yml` file and put your license key on the `license-key` path!
+4. Start your server, let it fully start.
+5. <span style={{color: '#FFD700'}}>Profit!</span>
 
 ---
 

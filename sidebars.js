@@ -71,11 +71,11 @@ const sidebars = {
       items: [
         {
           type: 'doc',
-          id: 'private-games/addon-installation/bungee-installation',
+          id: 'private-games/addon-installation/shared-multiarena-installation',
         },
         {
           type: 'doc',
-          id: 'private-games/addon-installation/shared-multiarena-installation',
+          id: 'private-games/addon-installation/bungee-installation',
         },
       ],
     },
@@ -90,6 +90,20 @@ const sidebars = {
         {
           type: 'doc',
           id: 'private-games/configuration/messages-configuration',
+        },
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Contribute',
+      items: [
+        {
+          type: 'doc',
+          id: 'private-games/contribute/help-us-translate',
+        },
+        {
+          type: 'doc',
+          id: 'private-games/contribute/contributors',
         },
       ],
     },

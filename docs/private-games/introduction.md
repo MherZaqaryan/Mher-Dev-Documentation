@@ -19,8 +19,7 @@ Here you will find a complete set of documentation for the plugin, outlining how
 * [Terms And Conditions](terms-and-conditions).
 * [Compatibility](compatibility).
 * [Verifying Purchase](how-to-verify).
-* [Shared/Multiarena Installation](addon-installation/shared-multiarena-installation).
-* [Bungee Installation](addon-installation/bungee-installation).
+* [Addon Installation](addon-installation).
 * [Frequently asked questions](general-information/frequently-asked-questions).
 * [Commands And Permissions](general-information/commands-and-permissions).
 * [Unique modifiers](general-information/unique-modifiers).
