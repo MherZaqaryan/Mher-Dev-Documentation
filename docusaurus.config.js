@@ -10,8 +10,8 @@ const config = {
   tagline: 'Documentation',
   url: 'https://docs.mher.club',
   baseUrl: '/',
-  onBrokenLinks: 'warn',
-  onBrokenMarkdownLinks: 'warn',
+  onBrokenLinks: 'log',
+  onBrokenMarkdownLinks: 'log',
   favicon: 'img/favicon.png',
 
   // GitHub pages deployment config.

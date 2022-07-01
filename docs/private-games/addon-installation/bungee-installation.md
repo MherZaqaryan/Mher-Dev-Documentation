@@ -14,8 +14,6 @@ Addon installation on bungee mode.
  If you are using this addon with Bungee mode you do need to have [BedWarsProxy](https://polymart.org/r/2167) installed!
 :::
 
-## Set up license key
-
 1. Download the plugin from [Polymart](https://polymart.org/r/1620).
 2. Put the BedWars1058-PrivateGames-x.x.x.jar file into both BedWarsProxy and BedWars1058 servers' plugins folder.
 3. Start your server, let it to fully start, and then stop it.

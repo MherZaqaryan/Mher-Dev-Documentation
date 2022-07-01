@@ -14,6 +14,7 @@ Here you will find a complete set of documentation for the plugin, outlining how
 
 > You can purchase the addon from **[Polymart](https://polymart.org/r/1620)**.
 
+You can find a game-play video [here](https://www.youtube.com/watch?v=-WVmt6COhB0) made by [`𝓧𝔁_𝔂𝓾𝓻𝓲2005_𝔁𝓧`](https://polymart.org/u/5122)
 ## Quick Tracks
 
 * [Terms And Conditions](terms-and-conditions).
