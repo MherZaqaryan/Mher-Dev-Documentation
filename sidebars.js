@@ -19,7 +19,88 @@ const sidebars = {
     {
       type: 'doc',
       id: 'cosmetics/introduction',
-    }
+    },
+    {
+      type: 'doc',
+      id: 'cosmetics/verify-purchase',
+    },
+    {
+      type: 'doc',
+      id: 'cosmetics/terms-and-conditions',
+    },
+    {
+      type: 'doc',
+      id: 'cosmetics/compatibility',
+    },
+    {
+      type: 'category',
+      label: 'General Information',
+      items: [
+        {
+          type: 'doc',
+          id: 'cosmetics/general-information/main-features',
+        },
+        {
+          type: 'link',
+          label: 'Cosmetic Categories',
+          href: 'cosmetic-categories',
+        },
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Cosmetic Categories',
+      link: {
+        type: 'generated-index',
+        slug: '/cosmetics/cosmetic-categories'
+      },
+      items: [
+        {
+          type: 'doc',
+          id: 'cosmetics/cosmetic-categories/projectile-trail',
+        },
+        {
+          type: 'doc',
+          id: 'cosmetics/cosmetic-categories/victory-dance',
+        },
+        {
+          type: 'doc',
+          id: 'cosmetics/cosmetic-categories/final-kill-effect',
+        },
+        {
+          type: 'doc',
+          id: 'cosmetics/cosmetic-categories/spray',
+        },
+        {
+          type: 'doc',
+          id: 'cosmetics/cosmetic-categories/island-topper',
+        },
+        {
+          type: 'doc',
+          id: 'cosmetics/cosmetic-categories/death-cry',
+        },
+        {
+          type: 'doc',
+          id: 'cosmetics/cosmetic-categories/shopkeeper-skin',
+        },
+        {
+          type: 'doc',
+          id: 'cosmetics/cosmetic-categories/kill-message',
+        },
+        {
+          type: 'doc',
+          id: 'cosmetics/cosmetic-categories/glyph',
+        },
+        {
+          type: 'doc',
+          id: 'cosmetics/cosmetic-categories/bed-destroy',
+        },
+        {
+          type: 'doc',
+          id: 'cosmetics/cosmetic-categories/wood-skin',
+        },
+      ],
+    },
   ],
 
   private_games: [
