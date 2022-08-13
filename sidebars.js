@@ -22,11 +22,11 @@ const sidebars = {
     },
     {
       type: 'doc',
-      id: 'cosmetics/verify-purchase',
+      id: 'cosmetics/terms-and-conditions',
     },
     {
       type: 'doc',
-      id: 'cosmetics/terms-and-conditions',
+      id: 'cosmetics/verify-purchase',
     },
     {
       type: 'doc',
@@ -114,7 +114,7 @@ const sidebars = {
     },
     {
       type: 'doc',
-      id: 'private-games/how-to-verify',
+      id: 'private-games/verify-purchase',
     },
     {
       type: 'doc',

@@ -19,7 +19,7 @@ You can find a game-play video [here](https://www.youtube.com/watch?v=-WVmt6COhB
 
 * [Terms And Conditions](terms-and-conditions).
 * [Compatibility](compatibility).
-* [Verifying Purchase](how-to-verify).
+* [Verifying Purchase](verify-purchase).
 * [Addon Installation](addon-installation).
 * [Frequently asked questions](general-information/frequently-asked-questions).
 * [Commands And Permissions](general-information/commands-and-permissions).

@@ -27,7 +27,7 @@ Addon installation on bungee mode.
   </TabItem>
 </Tabs>
 
-> Put your personal license key that you got from the result of [these steps](/private-games/how-to-verify#get-the-license-and-your-roles-for-bedwars1058-private-games) on the `license-key` path of each file.
+> Put your personal license key that you got from the result of [these steps](/private-games/verify-purchase#get-the-license-and-your-roles-for-bedwars1058-private-games) on the `license-key` path of each file.
 
 5. Start your server, let it to fully start, and then stop it again.
 

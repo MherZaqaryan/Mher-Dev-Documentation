@@ -16,4 +16,5 @@ Here you will find a complete set of documentation for the plugin, outlining how
 
 ## Quick Tracks
 
-//
+* Terms And Conditions
+* Purchase Verifying

@@ -1,6 +1,6 @@
 ---
-id: how-to-verify
-title: How To Verify
+id: verify-purchase
+title: Verify Purchase
 description: Verifying your purchase and getting your personal license key for the BedWars1058 Private Games Addon.
 ---
 
