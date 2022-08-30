@@ -6,23 +6,23 @@
 
 /* You can override the default Infima variables here. */
 
-@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@300&display=swap');
-
-* {
-  font-family: 'Mulish', sans-serif;
-}
-
-.menu {
-  font-weight: 600;
+@font-face {
+  font-family: "JetBrains Mono";
+  font-style: normal;
+  font-weight: 400;
+  src: url('https://fonts.googleapis.com/css2?family=JetBrains+Mono&display=swap');
 }
 
 .container {
-  padding: 0 60px;
+  margin-left: 60px;
+}
+
+.docSidebarContainer_node_modules-\@docusaurus-theme-classic-lib-theme-DocPage-Layout-Sidebar-styles-module {
+  border-right: 2px solid var(--ifm-toc-border-color) !important;
 }
 
 :root {
-  --ifm-font-size-base: 18px;
-  --ifm-code-font-size: 90%;
+  --ifm-code-font-size: 95%;
   --ifm-color-primary: #31a8ec;
   --ifm-color-primary-dark: #179dea;
   --ifm-color-primary-darker: #1495de;
@@ -30,9 +30,9 @@
   --ifm-color-primary-light: #4bb3ee;
   --ifm-color-primary-lighter: #58b9f0;
   --ifm-color-primary-lightest: #7fc9f3;
+    --ifm-font-family-monospace: "JetBrains Mono", "SFMono-Regular", "Menlo", "Consolas", "Liberation Mono", monospace;
 }
 
-/* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme="dark"] {
   --ifm-color-primary: #38b6ff;
   --ifm-color-primary-dark: #19abff;
@@ -41,9 +41,11 @@
   --ifm-color-primary-light: #57c1ff;
   --ifm-color-primary-lighter: #67c7ff;
   --ifm-color-primary-lightest: #95d8ff;
-}
-
-/* Navbar Icons */
+  --ifm-menu-color: #dadada !important;
+  --ifm-toc-link-color: #dadada !important;
+  --ifm-background-color: #151515;
+  --ifm-heading-color: #ededed;
+} 
 
 .header-discord-link::before {
   content: '';
@@ -89,4 +91,34 @@
 
 .theme-last-updated {
   font-style: normal;
+}
+
+.menu__link--active:not(.menu__link--sublist) {
+  --size: 4px;
+  border-left-width: var(--size);
+  border-left-style: solid;
+  border-left-color: var(--ifm-menu-color-active);
+  padding-left: calc(var(--ifm-menu-link-padding-horizontal) - var(--size));
+}
+
+.alert {
+  color: #eaf2f7;
+  background-color: #22272e;
+  border-left-width: 4px;
+  border-radius: 4px;
+}
+
+.alert--secondary {
+  --ifm-alert-foreground-color: #008847;
+  --ifm-alert-border-color: #008847;
+}
+
+.alert--info {
+  --ifm-alert-foreground-color: #346DDB;
+  --ifm-alert-border-color: #346DDB;
+}
+
+.alert--danger {
+  --ifm-alert-foreground-color: #d33d3d;
+  --ifm-alert-border-color: #d33d3d;
 }
