@@ -41,9 +41,8 @@ const sidebars = {
           id: 'cosmetics/general-information/main-features',
         },
         {
-          type: 'link',
-          label: 'Cosmetic Categories',
-          href: 'cosmetic-categories',
+          type: 'doc',
+          id: 'cosmetics/general-information/frequently-asked-questions',
         },
       ],
     },
@@ -100,6 +99,112 @@ const sidebars = {
           id: 'cosmetics/cosmetic-categories/wood-skin',
         },
       ],
+    },
+    {
+      type: 'category',
+      label: 'Addon Configuration',
+      items: [
+        {
+          type: 'doc',
+          id: 'cosmetics/configuration/main-configuration',
+        },
+        {
+          type: 'doc',
+          id: 'cosmetics/configuration/category-configuration',
+        },
+        {
+          type: 'doc',
+          id: 'cosmetics/configuration/language-configuration',
+        },
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Addon Installation',
+      items: [
+        {
+          type: 'doc',
+          id: 'cosmetics/addon-installation/addon-installation',
+        },
+        {
+          type: 'doc',
+          id: 'cosmetics/addon-installation/standalone-additions',
+        },
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Addon Tutorials',
+      items: [
+        {
+          type: 'doc',
+          id: 'cosmetics/tutorials/creating-custom-cosmetics',
+        },
+        {
+          type: 'doc',
+          id: 'cosmetics/tutorials/creating-custom-rarities',
+        },
+        {
+          type: 'link',
+          label: 'JavaDocs',
+          href: 'https://javadocs.mher.club/cosmetics/index.html',
+        },
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Hooks',
+      items: [
+        {
+          type: 'doc',
+          id: 'cosmetics/hooks/citizens-support',
+        },
+        {
+          type: 'doc',
+          id: 'cosmetics/hooks/vault-support',
+        },
+        {
+          type: 'doc',
+          id: 'cosmetics/hooks/placeholderapi-support',
+        },
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Contribute',
+      items: [
+        {
+          type: 'doc',
+          id: 'cosmetics/contribute/help-us-translate',
+        },
+        {
+          type: 'doc',
+          id: 'cosmetics/contribute/contributors',
+        },
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Developer API',
+      items: [
+        {
+          type: 'doc',
+          id: 'cosmetics/developer-api/getting-started',
+        },
+        {
+          type: 'doc',
+          id: 'cosmetics/developer-api/maven-dependency',
+        },
+        {
+          type: 'link',
+          label: 'JavaDocs',
+          href: 'https://javadocs.mher.club/cosmetics/index.html',
+        },
+      ],
+    },
+    {
+      type: 'doc',
+      id: 'cosmetics/feedback',
     },
   ],
 
