@@ -8,7 +8,7 @@ This addon is made for [Spigot](https://www.spigotmc.org/), however, it supports
 
 ## Software Version
 
-:::warning
+:::warning Warning
 We may drop support for some versions depending on BedWars1058.
 :::
 

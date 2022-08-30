@@ -10,7 +10,7 @@ Please note that this addon is packet-based, which means [Spigot](https://www.sp
 
 ## Software Version
 
-:::warning
+:::warning Warning
 We may drop support for some versions depending on BedWars1058.
 :::
 
