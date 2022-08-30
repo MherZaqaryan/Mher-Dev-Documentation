@@ -1,6 +1,6 @@
 ---
 id: introduction
-title: Introduction
+title: 🔒 BedWars1058 Private Games
 description: Introduction about BedWars1058 Private Games addon.
 ---
 
