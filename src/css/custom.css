@@ -113,8 +113,8 @@
 }
 
 .alert--secondary {
-  --ifm-alert-foreground-color: #008847;
-  --ifm-alert-border-color: #008847;
+  --ifm-alert-foreground-color: #b95e04;
+  --ifm-alert-border-color: #b95e04;
 }
 
 .alert--info {
@@ -125,4 +125,9 @@
 .alert--danger {
   --ifm-alert-foreground-color: #d33d3d;
   --ifm-alert-border-color: #d33d3d;
+}
+
+.alert--success {
+  --ifm-alert-foreground-color: #008847;
+  --ifm-alert-border-color: #008847;
 }
