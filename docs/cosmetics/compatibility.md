@@ -43,7 +43,7 @@ This addon is standalone which means it's not required to install [BedWars1058](
 
 Addon supports for **SHARED**, **MULTIARENA**, **BUNGEE**, and **BUNGEE_LEGACY** server types. Read more about server types here.
 
-Addon will use corresponding BedWars1058 Cosmetics server type for BedWars1058 server type.
+BedWars1058 Cosmetics Addon has 3 different modes depedning on your installation.
 
 ### BedWars1058
 If the server has the BedWars1058 plugin in **SHARED**, **MULTIARENA**, **BUNGEE**, or **BUNGEE_LEGACY** mode Cosmetics addon will enable `BedWars1058` mode, in this mode you'll be able to either both cosmetics via the `/cosmetics menu` and see them playing in-game events, such as final killing, projectile launching, etc.
