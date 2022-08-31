@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Mher Development Development',
+  title: 'Mher Development Documentation',
   tagline: 'Documentation of Mher Development, including BedWars1058 Cosmetics, BedWars1058 Private Games.',
   url: 'https://docs.mher.club',
   baseUrl: '/',
