@@ -13,10 +13,6 @@
   src: url('https://fonts.googleapis.com/css2?family=JetBrains+Mono&display=swap');
 }
 
-.docMainContainer_node_modules-\@docusaurus-theme-classic-lib-theme-DocPage-Layout-Main-styles-module .container {
-  margin-left: 60px;
-}
-
 .docSidebarContainer_node_modules-\@docusaurus-theme-classic-lib-theme-DocPage-Layout-Sidebar-styles-module {
   border-right: 2px solid var(--ifm-toc-border-color) !important;
 }
