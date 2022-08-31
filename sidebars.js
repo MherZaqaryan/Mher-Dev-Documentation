@@ -135,19 +135,44 @@ const sidebars = {
     {
       type: 'category',
       label: 'Addon Tutorials',
+      link: {
+        type: 'generated-index',
+        slug: '/cosmetics/addon-tutorials'
+      },
       items: [
         {
-          type: 'doc',
-          id: 'cosmetics/tutorials/creating-custom-cosmetics',
+          type: 'category',
+          label: 'Create Custom Cosmetics',
+          link: {
+            type: 'doc',
+            id: 'cosmetics/tutorials/create-cosmetics/create-cosmetics'
+          },
+          items: [
+            {
+              type: 'doc',
+              id: 'cosmetics/tutorials/create-cosmetics/spray',
+            },
+            {
+              type: 'doc',
+              id: 'cosmetics/tutorials/create-cosmetics/shopkeeper-skin',
+            },
+            {
+              type: 'doc',
+              id: 'cosmetics/tutorials/create-cosmetics/kill-message',
+            },
+            {
+              type: 'doc',
+              id: 'cosmetics/tutorials/create-cosmetics/glyph',
+            },
+            {
+              type: 'doc',
+              id: 'cosmetics/tutorials/create-cosmetics/wood-skin',
+            },
+          ],
         },
         {
           type: 'doc',
-          id: 'cosmetics/tutorials/creating-custom-rarities',
-        },
-        {
-          type: 'link',
-          label: 'JavaDocs',
-          href: 'https://javadocs.mher.club/cosmetics/index.html',
+          id: 'cosmetics/tutorials/create-custom-rarities',
         },
       ],
     },
