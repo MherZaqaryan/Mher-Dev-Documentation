@@ -1,16 +1,14 @@
 import React from 'react';
-import clsx from 'clsx';
-import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
-import HomepageFeatures from '@site/src/components/HomepageFeatures';
+import Projects from '../components/project'; 
 
 import styles from './index.module.css';
 
 function HomepageHeader() {
-  const {siteConfig} = useDocusaurusContext();
+  const { siteConfig } = useDocusaurusContext();
   return (
-    <header className={clsx('hero hero--primary', styles.heroBanner)}>
+    <header className={styles.heroBanner}>
       <div className="container">
         <img src="img/favicon.png" width={100}></img>
         <h1 className="hero__title">{siteConfig.title}</h1>
@@ -21,14 +19,17 @@ function HomepageHeader() {
 }
 
 export default function Home() {
-  const {siteConfig} = useDocusaurusContext();
+  const {
+    siteConfig: { customFields },
+  } = useDocusaurusContext();
+
+  const { description } = customFields;
+
   return (
-    <Layout
-      title={`${siteConfig.title}`}
-      description="Mher Development Documentation">
+    <Layout title="Home" description={description}>
       <HomepageHeader />
       <main>
-        <HomepageFeatures />
+        <Projects />
       </main>
     </Layout>
   );
