@@ -1,6 +1,6 @@
 ---
 id: spray
-title: Manual | Sprays
+title: Create Sprays
 ---
 
 ```mdx-code-block
@@ -8,8 +8,12 @@ import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 ```
 
+:::tip
+If you need additional help, we'll be happy to help you on our [Discord](https://mher.club/discord) server.
+:::
+
 :::note
-Spray images should be 1:1 it's recommended to use 128x128 dimensional pictures to not lose the image quality. Supported image formats are JPEG, PNG, BMP, and WEBMP.
+Spray images should be **1:1** it's recommended to use 128x128 dimensional pictures to not lose the image quality. Supported image formats are **JPEG**, **PNG**, **BMP**, and **WEBMP**.
 :::
 
 ## Spray category configuration file.
