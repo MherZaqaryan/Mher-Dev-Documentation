@@ -42,6 +42,10 @@ const sidebars = {
         },
         {
           type: 'doc',
+          id: 'cosmetics/general-information/commands-and-permissions',
+        },
+        {
+          type: 'doc',
           id: 'cosmetics/general-information/frequently-asked-questions',
         },
       ],
@@ -172,7 +176,7 @@ const sidebars = {
         },
         {
           type: 'doc',
-          id: 'cosmetics/tutorials/create-custom-rarities',
+          id: 'cosmetics/tutorials/create-rarities',
         },
       ],
     },

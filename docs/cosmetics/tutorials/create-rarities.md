@@ -1,6 +1,6 @@
 ---
-id: create-custom-rarities
-title: Create Custom Rarities
+id: create-rarities
+title: Create Rarities
 ---
 
 ```mdx-code-block
