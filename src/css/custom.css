@@ -13,10 +13,6 @@
   src: url('https://fonts.googleapis.com/css2?family=JetBrains+Mono&display=swap');
 }
 
-.docSidebarContainer_node_modules-\@docusaurus-theme-classic-lib-theme-DocPage-Layout-Sidebar-styles-module {
-  border-right: 2px solid var(--ifm-toc-border-color) !important;
-}
-
 :root {
   --ifm-code-font-size: 95%;
   --ifm-color-primary: #31a8ec;
@@ -119,11 +115,21 @@
 }
 
 .alert--danger {
-  --ifm-alert-foreground-color: #d33d3d;
+  --ifm-alert-foreground-color: #d33d3d; 
   --ifm-alert-border-color: #d33d3d;
 }
 
 .alert--success {
   --ifm-alert-foreground-color: #008847;
   --ifm-alert-border-color: #008847;
+}
+
+.docContainerMainParent {
+  margin-left: 30px;
+}
+
+@media only screen and (max-width: 996px) {
+  .docContainerMainParent {
+    margin-left: 10px;
+  }  
 }
