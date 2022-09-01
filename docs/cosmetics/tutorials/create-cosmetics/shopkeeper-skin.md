@@ -109,5 +109,5 @@ your-shopkeeper-skin-identifier:
   - 'Description line 2'
 ```
 
-4. Save all these files and restart your server.
-5. You're done, now you should see your custom Shopkeeper Skin on the Shopkeeper Skins menu via **`/cosmetic menu shopkeeper-skin`**.
+3. Save all these files and restart your server.
+4. You're done, now you should see your custom Shopkeeper Skin on the Shopkeeper Skins menu via **`/cosmetic menu shopkeeper-skin`**.
