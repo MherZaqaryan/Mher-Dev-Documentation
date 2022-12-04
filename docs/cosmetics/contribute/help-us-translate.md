@@ -1,12 +1,12 @@
 ---
 id: help-us-translate
 title: Help Us Translate
-description: Contribute on BedWars1058 Private Games Addon with translating the messages.
+description: Contribute on BedWars1058 Cosmetics Addon with translating the messages.
 ---
-Contribute on BedWars1058 Private Games Addon with translating the messages to your own, or desired language.
+Contribute on BedWars1058 Cosmetics Addon with translating the messages to your own, or desired language.
 
 :::note
-You **must be a buyer** of BedWars1058 Private Games Addon product, otherwise please don't try to contact, your request must be canceled.
+You **must be a buyer** of BedWars1058 Cosmetics Addon product, otherwise please don't try to contact, your request must be canceled.
 :::
 
 Currently you can request to translate for these languages only:
