@@ -14,14 +14,14 @@ The table below shows the categories in which you can create a new cosmetic manu
 | Projectile Trail | ❌ | ✅ |
 | Victory Dance | ❌ | ✅ |
 | Final Kill Effect | ❌ | ✅ |
-| Spray | ✅ | ✅ |
+| [Spray](spray.md) | ✅ | ✅ |
 | Island Topper | N/A | N/A |
 | Death Cry | ❌ | ✅ |
-| Shopkeeper Skin | ✅ | ✅ |
-| Kill Message | ✅ | ✅ |
-| Glyph | ✅ | ✅ |
+| [Shopkeeper Skin](shopkeeper-skin.md) | ✅ | ✅ |
+| [Kill Message](kill-message.md) | ✅ | ✅ |
+| [Glyph](glyph.md) | ✅ | ✅ |
 | Bed Destroy | ❌ | ✅ |
-| Wood Skin | ✅ | ✅ |
+| [Wood Skin](wood-skin.md) | ✅ | ✅ |
 
 :::tip
 If you don't understand any steps of any tutorial, don't hesitate to ask for additional support on the [Discord](https://mher.club/discord) server, we'll be happy to help you.
