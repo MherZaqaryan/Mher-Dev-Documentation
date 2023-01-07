@@ -120,6 +120,10 @@ const sidebars = {
           type: 'doc',
           id: 'cosmetics/configuration/language-configuration',
         },
+        {
+          type: 'doc',
+          id: 'cosmetics/configuration/useful-resources',
+        },
       ],
     },
     {

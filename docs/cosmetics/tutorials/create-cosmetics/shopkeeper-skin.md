@@ -12,6 +12,10 @@ import TabItem from '@theme/TabItem';
 If you need additional help, we'll be happy to help you on our [Discord](https://mher.club/discord) server.
 :::
 
+:::tip
+Use entity types from [useful resources](/cosmetics/configuration/useful-resources) for your server version.
+:::
+
 ## Shopkeeper Skin category configuration file.
 
 <Tabs groupId="dependency">

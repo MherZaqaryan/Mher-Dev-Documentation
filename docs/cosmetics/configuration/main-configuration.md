@@ -27,6 +27,7 @@ From the `config.yml` file, you can edit:
 - [Sounds](./main-configuration#sounds)
 - [Categories](./main-configuration#categories)
 - [Rarities](./main-configuration#rarities)
+- [Permission Discount](./main-configuration#permission-discount)
 
 ## Command Function
 
@@ -45,8 +46,15 @@ To make the click close the inventory use `CLOSE` identifier for the command sec
 ## Material
 
 :::tip
-Use materials from useful resources for your server version.
+Use materials from [useful resources](/cosmetics/configuration/useful-resources) for your server version.
 :::
+
+```yaml
+example-item:
+  material: "HOPPER"
+  amount: 1
+  enchanted: true
+```
 
 ### Amount
 To set an amount for an item use `amount: 1` config section. The maximum amount is 64.
@@ -64,7 +72,14 @@ To make a textured player head you must use the form of `texture:base64` for exa
 
 <summary>Example of custom texture head</summary>
 
-Example: `Material: texture:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjk4YmM2M2YwNWY2Mzc4YmYyOWVmMTBlM2Q4MmFjYjNjZWI3M2E3MjBiZjgwZjMwYmM1NzZkMGFkOGM0MGNmYiJ9fX0=`
+Example:
+
+```yaml
+example-item:
+  material: "texture:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjk4YmM2M2YwNWY2Mzc4YmYyOWVmMTBlM2Q4MmFjYjNjZWI3M2E3MjBiZjgwZjMwYmM1NzZkMGFkOGM0MGNmYiJ9fX0="
+  amount: 1
+  enchanted: false
+```
 
 Result will be:
 
@@ -75,20 +90,59 @@ Source: https://minecraft-heads.com/
 </details>
 
 ### Leather Color
+
+Example:
+
+```yaml
+example-item:
+  material: "LEATHER_LEGGINGS:#FF0000"
+  amount: 1
+  enchanted: false
+```
+
 To make colored leather you have to use the form of `leather-material:hex-color` for example `LEATHER_LEGGINGS:#FF0000` will be displayed as red leather leggings.
 
 ### Fill Empty Slots
+
+Example:
+
+```yaml
+empty-slots:
+  enabled: false
+  material: STAINED_GLASS_PANE
+  amount: 1
+  enchanted: false
+```
+
 To fill the empty slots of the Categories, Cosmetics, and Confirm Purchase menus you have to change the empty-slots path's `enabled: false` section to **true**, to make it fill all the slots which are empty. You may change the material of the filling item. 
 
 ## Sounds
 
 :::tip
-Use sounds from useful resources for your server version.
+Use sounds from [useful resources](/cosmetics/configuration/useful-resources) for your server version.
 :::
+
+Sounds are used to make some actions more interactive and understandable for players, in the sound section you can configure everything with your desired way.
+
+Snippet:
+```yaml
+sounds:
+  cosmetic-select: "NOTE_PLING:1:2"
+  cosmetic-preview: "SUCCESSFUL_HIT"
+```
 
 You can configure sounds volume and pitch by using the form of `sound:volume:pitch` for example `NOTE_PLING:1:2` this plays **NOTE_PLING** sound with volume of *1* and pitch of *2*.
 
 ## Categories
+
+Snippet:
+
+```yaml
+categories:
+  projectile-trail:
+    enabled: true
+    default: "none"
+```
 
 ### Enabling or Disabling
 To **disable** or **enable** a category set **true** or **false** for the corresponding category's enabled configuration section.
@@ -98,8 +152,83 @@ To modify the default cosmetic of a category handle to the `default:` configurat
 
 ## Rarities
 
+Rarities are used to sort the cosmetics, so if the cosmetics has a high proiority rarity then that cosmetics is more better than the one that is set to low proiority rarity. Rarities can be applied to the cosmetics which later can be used by the sorter feature to sort the cosmetics by lowest to highest rarity or vice versa.
+
+Snippet:
+
+```yaml
+rarities:
+  common:
+    priority: 1
+    color: GREEN
+```
+
 ### Priority
-The priority will be in the range of 1-∞ it will help the sorter to sort the cosmetics when using the sorter.
+The priority will be in the range of 1-∞ it will help the sorter feature to sort the cosmetics in the menu when using the sorter item.
 
 ### Color
 The color for the rarity is the usual chat colors which you can find here. Those colors won't affect the sorting.
+
+## Permission Discount
+
+Permission discounts will allow you to make permissions that will discount the price of a cosmetic by a percentage or an amount that is set for the corresponding permission discount, which then could be applied to a player or a group.
+
+Example: 
+
+```yaml
+permission-discount:
+  enabled: true
+  example-percentage:
+    discount-type: PERCENTAGE
+    value: 20
+  example-amount:
+    discount-type: AMOUNT
+    value: 1000
+```
+
+### Enabled
+
+If the `enabled` path is set to true this feature will be activated.
+
+### Identifer
+
+The identifier is the base path for example the `example-percentage` or `example-amount` (shown in the example).
+
+Identifier is a part of the permission which is formed like **`bedwars.cosmetics.discount.<identifier>`**
+
+For example, if the player has **bedwars.cosmetics.discount.example-percentage** then the player will get a discount by corresponding `example-percentage` which is set to 20 percent.
+
+### Discount Type
+
+Discount types are two, the first one is **PERCENTAGE** which is used to do the discount by the value specified percent, and the second one is **AMOUNT** which will discount the price by the value specified.
+
+### Value
+
+The value is the number that is used to either do the discount by that percentage or by that amount, check out the [Discount Type](main-configuration#discount-type) for more.
+
+## Unlock Permission
+
+Unlock permissions are the permissions that can be attached to some specific cosmetics which will prevent purchasing the corresponding cosmetic without having that specific permission.
+
+Example:
+```yaml
+unlock-permission:
+  vip:
+    permission: vip
+    priority: 1
+  mvp-plus:
+    permission: mvp-plus
+    priority: 2
+```
+
+### Permission
+
+Permission form: **`bedwars.cosmetics.permit.<identifier>`**
+
+The permission's key, the actual permission will look like so when the permission is `vip` for example, then the actual permission will be `bedwars.cosmetics.permit.vip`
+
+### Priority
+
+Can be anything between `1-∞`.
+
+This is the priority of the unlock permission, since a cosmetic could have more than one unlock permission, this will be used to determine which permission to demand the player to have (starts from the lower to higher) 
