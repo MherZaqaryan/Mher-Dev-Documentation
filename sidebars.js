@@ -345,6 +345,13 @@ const sidebars = {
       type: 'doc',
       id: 'private-games/feedback',
     },
+  ],
+
+  the_pit: [
+    {
+      type: 'doc',
+      id: 'the-pit/introduction',
+    },
   ]
 
 };
