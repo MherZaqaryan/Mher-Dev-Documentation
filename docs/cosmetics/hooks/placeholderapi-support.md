@@ -21,7 +21,7 @@ You should specify the `<category>` for each placeholder.
 
 ## Acceptable Categories
 
-:::info
+:::tip
 For example, if you want to get the selected cosmetics for the [Projectile Trail](../cosmetic-categories/projectile-trail.md) category you should use `%cosmetics_projectile_trail_selected%`.
 :::
 
@@ -29,7 +29,7 @@ For example, if you want to get the selected cosmetics for the [Projectile Trail
 * **victory_dance**
 * **final_kill**
 * **spray**
-* **island_topper** `(This category is not yet available)`
+* **island_topper** `(Currently N/A)`
 * **death_cry**
 * **shopkeeper_skin**
 * **kill_message**

@@ -28,6 +28,7 @@ From the `config.yml` file, you can edit:
 - [Categories](./main-configuration#categories)
 - [Rarities](./main-configuration#rarities)
 - [Permission Discount](./main-configuration#permission-discount)
+- [Unlock Permission](./main-configuration#unlock-permission)
 
 ## Command Function
 
@@ -36,12 +37,44 @@ For the categories and cosmetics* menu you may add some items which will run a c
 ### Player
 To make the command run by the player who clicked, you can just simply put your command in the `command: example` config section.
 
+Example Command:
+
+```yaml
+example-item:
+  command: "cosmetics menu"
+  material: ...
+  amount: ...
+  enchanted: ...
+  slot: ...
+```
+
 ### Console
 To make the command run by the console, you have to use the form of `CONSOLE:command` in the `command: CONSOLE:example` config section. You may use **`{player}`** placeholder which will be replaced by the player's name who clicked the item.
+
+Example Console Command:
+
+```yaml
+example-item:
+  command: "CONSOLE:eco give {player} 100"
+  material: ...
+  amount: ...
+  enchanted: ...
+  slot: ...
+```
 
 ### Close
 To make the click close the inventory use `CLOSE` identifier for the command section.
 
+Example Close Inventory Command:
+
+```yaml
+example-item:
+  command: "CLOSE"
+  material: ...
+  amount: ...
+  enchanted: ...
+  slot: ...
+```
 
 ## Material
 
