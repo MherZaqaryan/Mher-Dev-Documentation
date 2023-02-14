@@ -16,4 +16,6 @@ There are 35+ in-built projectile trails available in this addon, however, you c
 <img width="400px" src="https://imgur.com/3doFWiR.gif"/><br/>
 <img width="400px" src="https://imgur.com/xSTnnyC.gif"/><br/>
 <img width="400px" src="https://imgur.com/tpVtkGj.gif"/><br/>
-<img width="400px" src="https://imgur.com/RcoYppT.gif"/><br/>
+<img width="400px" src="https://imgur.com/RcoYppT.gif"/><br/><br/>
+
+You can check all them out by joining our official testing Minecraft server at **play.mher.club**

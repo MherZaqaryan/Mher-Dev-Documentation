@@ -17,4 +17,6 @@ There are over 41+ in-built sprays associated with the addon, you can add more s
 <img width="400px" src="https://imgur.com/5g6Uggk.gif"/><br/>
 <img width="400px" src="https://imgur.com/NieB3PN.gif"/><br/>
 <img width="400px" src="https://imgur.com/xoreuex.gif"/><br/>
-<img width="400px" src="https://imgur.com/dtREzMS.gif"/><br/>
+<img width="400px" src="https://imgur.com/dtREzMS.gif"/><br/><br/>
+
+You can check all them out by joining our official testing Minecraft server at **play.mher.club**

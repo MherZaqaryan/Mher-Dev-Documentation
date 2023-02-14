@@ -17,4 +17,6 @@ There are over 29+ in-built kill messages, you can both create new ones manually
 ![Imgur](https://imgur.com/elTRztN.png)
 ![Imgur](https://imgur.com/QwnNTn9.png)
 ![Imgur](https://imgur.com/KEMxVsA.png)
-![Imgur](https://imgur.com/CeHnfrE.png)
+![Imgur](https://imgur.com/CeHnfrE.png)<br/>
+
+You can check all them out by joining our official testing Minecraft server at **play.mher.club**

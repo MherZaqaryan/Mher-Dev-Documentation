@@ -38,10 +38,6 @@ const sidebars = {
       items: [
         {
           type: 'doc',
-          id: 'cosmetics/general-information/main-features',
-        },
-        {
-          type: 'doc',
           id: 'cosmetics/general-information/commands-and-permissions',
         },
         {
@@ -49,6 +45,28 @@ const sidebars = {
           id: 'cosmetics/general-information/frequently-asked-questions',
         },
       ],
+    },
+    {
+      type: 'category',
+      label: 'Addon Features',
+      link: {
+        type: 'generated-index',
+        slug: '/cosmetics/features'
+      },
+      items: [
+        {
+          type: 'doc',
+          id: 'cosmetics/features/key-features',
+        },
+        {
+          type: 'doc',
+          id: 'cosmetics/features/cosmetics-sorter',
+        },
+        {
+          type: 'doc',
+          id: 'cosmetics/features/cosmetics-searcher',
+        },
+      ]
     },
     {
       type: 'category',
@@ -159,6 +177,10 @@ const sidebars = {
             {
               type: 'doc',
               id: 'cosmetics/tutorials/create-cosmetics/spray',
+            },
+            {
+              type: 'doc',
+              id: 'cosmetics/tutorials/create-cosmetics/island-topper',
             },
             {
               type: 'doc',

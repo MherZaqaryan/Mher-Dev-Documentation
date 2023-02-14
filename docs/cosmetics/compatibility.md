@@ -62,6 +62,7 @@ For more about BedWars1058 server types you can read [here](https://wiki.andrei1
 
 This add-on is integrated with some plugins, which will make addon work with some other ways.
 
-* Citizens (Optional, but required for Shopkeeper Skin category, otherwise it won't load).
-* Vault (Optional).
-* PlaceholderAPI (Optional).
+* **Citizens** (Optional, but required for [Shopkeeper Skin](cosmetic-categories/shopkeeper-skin) category).
+* **FAWE** / **WorldEdit** (Optional, but required for [Island Topper](cosmetic-categories/island-topper) category).
+* **Vault** (Optional).
+* **PlaceholderAPI** (Optional).

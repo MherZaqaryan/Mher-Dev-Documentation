@@ -16,4 +16,6 @@ There is over 18+ in-built bed destroy effects. Adding new effects are only poss
 <img width="400px" src="https://imgur.com/JeiHnvo.gif"/><br/>
 <img width="400px" src="https://imgur.com/mRQLjja.gif"/><br/>
 <img width="400px" src="https://imgur.com/S9ddhHQ.gif"/><br/>
-<img width="400px" src="https://imgur.com/bHWCzwz.gif"/><br/>
+<img width="400px" src="https://imgur.com/bHWCzwz.gif"/><br/><br/>
+
+You can check all them out by joining our official testing Minecraft server at **play.mher.club**

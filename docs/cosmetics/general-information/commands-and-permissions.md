@@ -14,9 +14,9 @@ The main command is **`/cosmetic`** (alias: **`/cosmetics`**).
 
 | Command Name | Command Permission | Command Description |
 | --- | --- | --- |
-| **/cosmetic** | *none* | General cosmetics command, sends the help message. |
-| **/cosmetic menu** | *none* | Opens the main categories menu. |
-| **/cosmetic menu (category)** | *none* | Opens the category menu that is specified. |
+| **/cosmetic** | *none* | General cosmetics command. |
+| **/cosmetic menu (category)** | *none* | Opens the categories menu. |
+| **/cosmetic search (query)** | *none* | Opens the gui to search for a query. |
 | **/cosmetic set &lt;player&gt; &lt;category&gt; &lt;cosmetic&gt;** | *bedwars.cosmetics.admin.set* | Sets the selected cosmetic from the specified category for the player. |
 | **/cosmetic reset** | *bedwars.cosmetics.admin.reset* | Resets the command runner's cosmetics to defaults |
 | **/cosmetic reset (player)** | *bedwars.cosmetics.admin.reset* | Resets the specified player's cosmetics to defaults |
@@ -29,7 +29,7 @@ The main command is **`/cosmetic`** (alias: **`/cosmetics`**).
 | [Victory Dance](../cosmetic-categories/victory-dance.md) | `victory-dance` |
 | [Final Kill Effect](../cosmetic-categories/final-kill-effect.md) | `final-kill` |
 | [Spray](../cosmetic-categories/spray.md) | `spray` |
-| Island Topper | `island-topper` (Currently N/A) |
+| [Island Topper](../cosmetic-categories/island-topper.md) | `island-topper` |
 | [Death Cry](../cosmetic-categories/death-cry.md) | `death-cry` |
 | [Shopkeeper Skin](../cosmetic-categories/shopkeeper-skin.md) | `shopkeeper-skin` |
 | [Kill Message](../cosmetic-categories/kill-message.md) | `kill-message` |

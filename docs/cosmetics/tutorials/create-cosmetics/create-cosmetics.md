@@ -7,7 +7,6 @@ The table below shows the categories in which you can create a new cosmetic manu
 
 - `✅` means that you can add it.
 - `❌` means that you can't add it for some reason or it's not technically possible.
-- `N/A` means that the category isn't implemented yet.
 
 | Category Name | Adding Manually | Adding Via The [Developer API](../../developer-api/getting-started) |
 | --- | --- | --- |
@@ -15,7 +14,7 @@ The table below shows the categories in which you can create a new cosmetic manu
 | Victory Dance | ❌ | ✅ |
 | Final Kill Effect | ❌ | ✅ |
 | [Spray](spray.md) | ✅ | ✅ |
-| Island Topper | N/A | N/A |
+| [Island Topper](island-topper.md) | ✅ | ✅ |
 | Death Cry | ❌ | ✅ |
 | [Shopkeeper Skin](shopkeeper-skin.md) | ✅ | ✅ |
 | [Kill Message](kill-message.md) | ✅ | ✅ |

@@ -13,4 +13,6 @@ There are over 12+ in-built wood skins, you can both add manually and by using t
 
 ## Wood Skin example.
 
-![Imgur](https://imgur.com/aRkfIMM.gif)
+![Imgur](https://imgur.com/aRkfIMM.gif)<br/>
+
+You can check all them out by joining our official testing Minecraft server at **play.mher.club** 

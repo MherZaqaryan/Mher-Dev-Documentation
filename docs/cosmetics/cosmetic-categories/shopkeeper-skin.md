@@ -17,4 +17,6 @@ There are over 69+ in-built shopkeeper skins, you can both create new ones manua
 ## Shopkeeper Skin examples.
 
 ![Imgur](https://imgur.com/wQmAJJj.png)
-![Imgur](https://imgur.com/d2Qii5Z.png)
+![Imgur](https://imgur.com/d2Qii5Z.png)<br/>
+
+You can check all them out by joining our official testing Minecraft server at **play.mher.club**

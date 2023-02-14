@@ -17,4 +17,6 @@ There are over 16 glyphs, those glyphs could be added both manually and with the
 <img width="400px" src="https://imgur.com/75thJGF.gif"/><br/>
 <img width="400px" src="https://imgur.com/utjsxtN.gif"/><br/>
 <img width="400px" src="https://imgur.com/Z4BpdRZ.gif"/><br/>
-<img width="400px" src="https://imgur.com/ThKS4ig.png"/><br/>
+<img width="400px" src="https://imgur.com/ThKS4ig.png"/><br/><br/>
+
+You can check all them out by joining our official testing Minecraft server at **play.mher.club**

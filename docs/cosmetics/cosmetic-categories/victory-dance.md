@@ -9,4 +9,6 @@ Victory Dance is a long dance animation that plays for a player whenever they wi
 
 There are over 12+ victory dances available currently. You'll be able to add more with the [Developer API](/cosmetics/developer-api/getting-started) only.
 
-![Imgur](https://imgur.com/ZexxoXH.png)
+![Imgur](https://imgur.com/ZexxoXH.png)<br/>
+
+You can check all them out by joining our official testing Minecraft server at **play.mher.club**
