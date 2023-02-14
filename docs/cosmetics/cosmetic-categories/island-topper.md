@@ -5,9 +5,11 @@ title: Island Topper
 
 ## What is Island Topper?
 
+![Imgur](https://imgur.com/I7vXBmh.png)
+
 This is a category that adds, the player's desired island topper to his in-game island's roof.
 
-There are over 127+ island toppers, those island toppers could be added both manually and with the [Developer API](/cosmetics/developer-api/getting-started).
+There are over 127 island toppers, those island toppers could be added both manually and with the [Developer API](/cosmetics/developer-api/getting-started).
 
 <img width="200px" src="https://imgur.com/6K1Xnho.png"/>
 <img width="200px" src="https://imgur.com/Rm7XBJc.png"/>

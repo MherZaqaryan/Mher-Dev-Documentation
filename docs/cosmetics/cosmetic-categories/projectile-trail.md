@@ -4,9 +4,12 @@ title: Projectile Trail
 ---
 
 ## What is Projectile Trail?
+
+![Imgur](https://imgur.com/f9Llj1x.png)
+
 Projectile Trail is a visual effect that adds animation over the projectile (arrow or fireball) whenever the player shoots it.
 
-There are 35+ in-built projectile trails available in this addon, however, you can add some more by using the [Developer API](/cosmetics/developer-api/getting-started), there is no way to add a projectile trail manually from the configuration file.
+There are 34 in-built projectile trails available in this addon, however, you can add some more by using the [Developer API](/cosmetics/developer-api/getting-started), there is no way to add a projectile trail manually from the configuration file.
 
 ![Imgur](https://imgur.com/UdiVFN7.png)
 ![Imgur](https://imgur.com/TZqPA55.png)

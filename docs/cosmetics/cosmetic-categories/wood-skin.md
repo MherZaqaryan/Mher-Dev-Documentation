@@ -5,9 +5,11 @@ title: Wood Skin
 
 ## What is a Wood Skin?
 
+![Imgur](https://imgur.com/GQcboVX.png)
+
 Wood Skin is a category, that changes the wood skin to the skin that the player has selected and they can use it in-game by buying it from the bedwars shop.
 
-There are over 12+ in-built wood skins, you can both add manually and by using the [Developer API](/cosmetics/developer-api/getting-started).
+There are over 11 in-built wood skins, you can both add manually and by using the [Developer API](/cosmetics/developer-api/getting-started).
 
 ![Imgur](https://imgur.com/KjLHKJv.png)
 

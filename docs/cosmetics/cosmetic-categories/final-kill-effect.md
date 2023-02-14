@@ -5,6 +5,8 @@ title: Final Kill Effect
 
 ## What is Final Kill Effect?
 
+![Imgur](https://imgur.com/yM7mzQ4.png)
+
 Final Kill Effect is a category that shows off a virtual effect that was selected by them, whenever a player final kills someone.
 
 There are over 23 in-built final kill effects available in this addon, however, you can add some more by using the [Developer API](/cosmetics/developer-api/getting-started).

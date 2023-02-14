@@ -5,9 +5,11 @@ title: Bed Destroy
 
 ## What is Bed Destroy?
 
+![Imgur](https://imgur.com/QDSM2jr.png)
+
 Bed Destroy is a category, that plays the player's selected bed break effect over the bed whenever the player breaks a bed in-game.
 
-There is over 18+ in-built bed destroy effects. Adding new effects are only possible via the [Developer API](/cosmetics/developer-api/getting-started).
+There is over 18 in-built bed destroy effects. Adding new effects are only possible via the [Developer API](/cosmetics/developer-api/getting-started).
 
 ![Imgur](https://imgur.com/xnJP2hS.png)
 

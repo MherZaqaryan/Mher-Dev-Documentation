@@ -29,7 +29,7 @@ For example, if you want to get the selected cosmetics for the [Projectile Trail
 * **victory_dance**
 * **final_kill**
 * **spray**
-* **island_topper** `(Currently N/A)`
+* **island_topper**
 * **death_cry**
 * **shopkeeper_skin**
 * **kill_message**

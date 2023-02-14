@@ -5,9 +5,11 @@ title: Shopkeeper Skin
 
 ## What is Shopkeeper Skin?
 
+![Imgur](https://imgur.com/AFIoCEu.png)
+
 Shopkeeper Skin is a category, that changes the shopkeeper's and upgrade's skin to the skin that the player selected.
 
-There are over 69+ in-built shopkeeper skins, you can both create new ones manually and with the [Developer API](/cosmetics/developer-api/getting-started).
+There are over 68 in-built shopkeeper skins, you can both create new ones manually and with the [Developer API](/cosmetics/developer-api/getting-started).
 
 ![Imgur](https://imgur.com/KfMjU2k.png)
 ![Imgur](https://imgur.com/yZWzxK0.png)

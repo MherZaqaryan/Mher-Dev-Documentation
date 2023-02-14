@@ -5,6 +5,8 @@ title: Glyph
 
 ## What is Glyph?
 
+![Imgur](https://imgur.com/fNuwp0c.png)
+
 Glyph is a category, that plays the player's selected glyph image over the diamond and emerald generators with particles, whenever the player picks up a diamond or an emerald.
 
 There are over 16 glyphs, those glyphs could be added both manually and with the [Developer API](/cosmetics/developer-api/getting-started).
