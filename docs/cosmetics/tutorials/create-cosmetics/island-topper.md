@@ -16,8 +16,16 @@ If you need additional help, we'll be happy to help you on our [Discord](https:/
 Island Topper schematics must be the same version as your server's software version, otherwise, it will not work properly.
 :::
 
-:::danger important
+:::info
 The schematic file must have the Sponge format, which means that your file has to either end with `.schematic` (for 1.8.8-1.12.2) or `.schem` (for 1.13.2-1.19.3).
+:::
+
+:::danger important
+When starting to create an Island Topper, make sure that the topper is faced to **south** (this is done to make the toppers face correctly for each team island).
+:::
+
+:::danger super important
+When copying the schematic to save, ensure that you are at the lowest Y position of your island topper, and the most centerest (the best centeral location for your topper).
 :::
 
 ## Island Topper category configuration file.
