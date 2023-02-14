@@ -20,6 +20,7 @@ The main command is **`/cosmetic`** (alias: **`/cosmetics`**).
 | **/cosmetic set &lt;player&gt; &lt;category&gt; &lt;cosmetic&gt;** | *bedwars.cosmetics.admin.set* | Sets the selected cosmetic from the specified category for the player. |
 | **/cosmetic reset** | *bedwars.cosmetics.admin.reset* | Resets the command runner's cosmetics to defaults |
 | **/cosmetic reset (player)** | *bedwars.cosmetics.admin.reset* | Resets the specified player's cosmetics to defaults |
+| **/bw setIslandTopper (team)** | *bedwars.command.islandtopper* | Sets the Island Topper location for the specificed team. |
 
 ## Category argument parameters
 
