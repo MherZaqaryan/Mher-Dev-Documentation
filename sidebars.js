@@ -156,6 +156,14 @@ const sidebars = {
           type: 'doc',
           id: 'cosmetics/addon-installation/standalone-additions',
         },
+        {
+          type: 'doc',
+          id: 'cosmetics/addon-installation/island-topper-installation',
+        },
+        {
+          type: 'doc',
+          id: 'cosmetics/addon-installation/spray-installation',
+        },
       ],
     },
     {
