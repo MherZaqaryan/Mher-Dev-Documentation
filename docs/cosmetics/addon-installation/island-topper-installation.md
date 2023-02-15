@@ -8,11 +8,11 @@ import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 ```
 
+## Island Topper Locations Installation
+
 :::note
 This is merely an additional criterion for Island Topper category; you do not need to completely re-setup each arena.
 :::
-
-## Island Topper Locations Installation
 
 Unlike other cosmetic categories, Island Topper necessitates some modifications to each of your BedWars1058 arenas. BedWars1058 Cosmetics Addon has a special command designed just for the Island Topper category.
 
@@ -24,6 +24,14 @@ Set up the topper location for each arena by following the steps below.
 4. Once you've completed everything, just type `/bw save` to save the arena, and you're all set.
 
 ## Custom Island Topper Schematic Creation And Saving
+
+:::note
+The Island Topper schematics must match the software version on your server in order for it to function properly.
+:::
+
+:::info
+The schematic file must have the Sponge format, which means that your file has to either end with `.schematic` (for 1.8.8-1.12.2) or `.schem` (for 1.13.2-1.19.3).
+:::
 
 The requirements you must follow to start building your custom Island Topper are listed below. Either the FastAsyncWorldEdit plugin or WorldEdit must be installed for this.
 

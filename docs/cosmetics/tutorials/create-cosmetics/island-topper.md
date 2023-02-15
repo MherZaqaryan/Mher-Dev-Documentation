@@ -12,12 +12,8 @@ import TabItem from '@theme/TabItem';
 If you need additional help, we'll be happy to help you on our [Discord](https://mher.club/discord) server.
 :::
 
-:::note
-Island Topper schematics must be the same version as your server's software version, otherwise, it will not work properly.
-:::
-
-:::info
-The schematic file must have the Sponge format, which means that your file has to either end with `.schematic` (for 1.8.8-1.12.2) or `.schem` (for 1.13.2-1.19.3).
+:::danger important
+Before moving on, please confirm that you followed [these](../../addon-installation/island-topper-installation.md) instructions when making your custom Island Topper.
 :::
 
 ## Island Topper category configuration file.
