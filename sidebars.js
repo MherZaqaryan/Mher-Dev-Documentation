@@ -42,6 +42,10 @@ const sidebars = {
         },
         {
           type: 'doc',
+          id: 'cosmetics/general-information/cosmetics-permissions',
+        },
+        {
+          type: 'doc',
           id: 'cosmetics/general-information/frequently-asked-questions',
         },
       ],
