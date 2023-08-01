@@ -385,13 +385,6 @@ const sidebars = {
     },
   ],
 
-  the_pit: [
-    {
-      type: 'doc',
-      id: 'the-pit/introduction',
-    },
-  ]
-
 };
 
 module.exports = sidebars;

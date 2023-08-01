@@ -69,11 +69,6 @@ const config = {
                 label: 'Cosmetics',
                 docId: 'cosmetics/introduction',
               },
-              {
-                type: 'doc',
-                label: 'The Pit',
-                docId: 'the-pit/introduction',
-              },
             ],
           },
           {
