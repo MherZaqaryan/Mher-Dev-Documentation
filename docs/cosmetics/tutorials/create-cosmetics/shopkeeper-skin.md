@@ -75,7 +75,7 @@ If you already have the skin credentials, put each of them in the paths.
 ```yml title="shopkeeper-skin.yml (snippet)"
 your-shopkeeper-skin-identifier:
   ...
-  type: PLAYER
+  type: SKIN
   skin: 
     unique-id: # Unique ID
     signature: # Signature
