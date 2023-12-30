@@ -66,7 +66,7 @@ your-shopkeeper-skin-identifier:
 ```
 
 ### Type SKIN
-You may add `skin` option when using type **SKIN**, this lets you add your own custom skin. To add the skin, get the URL address of your skin's image, go to [this](https://mher.club/skin-generator) website, then click on the `Generate!` button and you should get the skin's unique id, signature, and texture values, copy each of them and put them under skin option with the order as shown below.
+You may add `skin` option when using type **SKIN**, this lets you add your own custom skin. To add the skin, get the URL address of your skin's image, go to [this](https://mher.am/skin-generator) or [mineskin.org](https://mineskin.org) website, then click on the `Generate!` button and you should get the skin's unique id, signature, and texture values, copy each of them and put them under skin option with the order as shown below.
 
 :::info
 If you already have the skin credentials, put each of them in the paths.
