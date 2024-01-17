@@ -18,6 +18,7 @@ The main command is **`/cosmetic`** (alias: **`/cosmetics`**).
 | **/cosmetic menu (category)** | *none* | Opens the categories menu. |
 | **/cosmetic search (query)** | *none* | Opens the gui to search for a query. |
 | **/cosmetic set &lt;player&gt; &lt;category&gt; &lt;cosmetic&gt;** | *bedwars.cosmetics.admin.set* | Sets the selected cosmetic from the specified category for the player. |
+| **/cosmetic give &lt;player&gt; &lt;category&gt; &lt;cosmetic&gt;** | *bedwars.cosmetics.admin.give* | Gives a cosmetic from the specified category to the player. |
 | **/cosmetic reset** | *bedwars.cosmetics.admin.reset* | Resets the command runner's cosmetics to defaults |
 | **/cosmetic reset (player)** | *bedwars.cosmetics.admin.reset* | Resets the specified player's cosmetics to defaults |
 | **/bw setIslandTopper (team)** | *bedwars.command.islandtopper* | Sets the Island Topper location for the specificed team. |
